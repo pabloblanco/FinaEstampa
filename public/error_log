@@ -1,0 +1,211 @@
+[20-May-2015 09:14:02 America/Lima] PHP Parse error:  syntax error, unexpected 'page' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/top_bar.php on line 3
+[20-May-2015 09:35:40 America/Lima] PHP Parse error:  syntax error, unexpected 'wraplist' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/side_bar.php on line 36
+[20-May-2015 09:39:10 America/Lima] PHP Parse error:  syntax error, unexpected 'chat_user_1' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/chat_bar.php on line 35
+[20-May-2015 09:41:02 America/Lima] PHP Parse error:  syntax error, unexpected 'chat_user_1' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/chat_bar.php on line 35
+[21-May-2015 16:10:49 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 62
+[21-May-2015 16:10:49 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 62
+[21-May-2015 16:10:49 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 62
+[22-May-2015 09:58:23 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 62
+[22-May-2015 09:58:23 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 62
+[22-May-2015 09:58:23 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 62
+[22-May-2015 10:32:52 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 65
+[22-May-2015 10:32:52 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 65
+[22-May-2015 10:32:52 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 65
+[22-May-2015 11:08:44 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 107
+[22-May-2015 11:08:44 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 107
+[22-May-2015 11:08:44 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 107
+[22-May-2015 15:16:19 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 76
+[22-May-2015 15:16:19 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 76
+[22-May-2015 15:16:19 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 76
+[25-May-2015 11:36:11 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 76
+[25-May-2015 11:36:11 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 76
+[25-May-2015 11:36:11 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 76
+[27-May-2015 09:15:59 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 76
+[27-May-2015 09:15:59 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 76
+[27-May-2015 09:15:59 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 76
+[27-May-2015 09:18:37 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 78
+[27-May-2015 09:18:37 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 78
+[27-May-2015 09:18:37 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 78
+[27-May-2015 09:56:30 America/Lima] PHP Parse error:  syntax error, unexpected '}' in /home/softhaus/public_html/logistik/app/index2.php on line 73
+[27-May-2015 12:21:32 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 77
+[27-May-2015 12:21:32 America/Lima] PHP Warning:  include(charts_richshaw.php): failed to open stream: No such file or directory in /home/softhaus/public_html/logistik/app/index.php on line 77
+[27-May-2015 12:21:32 America/Lima] PHP Warning:  include(): Failed opening 'charts_richshaw.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/softhaus/public_html/logistik/app/index.php on line 77
+[27-May-2015 15:24:09 America/Lima] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/maps_vectors.php on line 3
+[27-May-2015 15:24:51 America/Lima] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/maps_vectors.php on line 3
+[27-May-2015 15:25:55 America/Lima] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/maps_vectors.php on line 3
+[27-May-2015 15:28:20 America/Lima] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ',' or ';' in /home/softhaus/public_html/logistik/app/maps_vectors.php on line 3
+[02-Jun-2015 09:52:11 America/Lima] PHP Parse error:  syntax error, unexpected '=' in /home/softhaus/public_html/logistik/app/vistas.php on line 1355
+[02-Jun-2015 09:56:52 America/Lima] PHP Parse error:  syntax error, unexpected '=' in /home/softhaus/public_html/logistik/app/vistas.php on line 1355
+[02-Jun-2015 09:58:53 America/Lima] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/softhaus/public_html/logistik/app/vistas.php on line 68
+[02-Jun-2015 13:07:12 America/Lima] PHP Parse error:  syntax error, unexpected '<' in /home/softhaus/public_html/logistik/app/tables_data.php on line 359
+[05-Jun-2015 12:48:18 America/Lima] PHP Parse error:  syntax error, unexpected end of file in /home/softhaus/public_html/logistik/app/tables_data.php on line 360
+[05-Jun-2015 12:50:37 America/Lima] PHP Parse error:  syntax error, unexpected end of file in /home/softhaus/public_html/logistik/app/tables_data.php on line 277
+[05-Jun-2015 12:51:00 America/Lima] PHP Parse error:  syntax error, unexpected end of file in /home/softhaus/public_html/logistik/app/tables_data.php on line 276
+[05-Jun-2015 12:52:24 America/Lima] PHP Parse error:  syntax error, unexpected end of file in /home/softhaus/public_html/logistik/app/tables_data.php on line 360
+[05-Jun-2015 12:52:51 America/Lima] PHP Parse error:  syntax error, unexpected end of file in /home/softhaus/public_html/logistik/app/tables_data.php on line 339
+[17-Jun-2015 13:42:40 America/Lima] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/softhaus/public_html/logistik/app/ajax.php on line 223
+[23-Jun-2019 16:01:38 Etc/GMT] PHP Notice:  Undefined index: controller in /home/estampa/public_html/admin/public/index1.php on line 2
+[23-Jun-2019 16:01:38 Etc/GMT] PHP Notice:  Undefined variable: pedido in /home/estampa/public_html/admin/public/index1.php on line 227
+[23-Jun-2019 16:01:51 Etc/GMT] PHP Notice:  Undefined index: controller in /home/estampa/public_html/admin/public/index2.php on line 2
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: controller in /home/estampa/public_html/admin/public/usuarios.php on line 10
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: view in /home/estampa/public_html/admin/public/usuarios.php on line 11
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: id_lang in /home/estampa/public_html/admin/public/usuarios.php on line 12
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: id_warehouse in /home/estampa/public_html/admin/public/usuarios.php on line 13
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: reference in /home/estampa/public_html/admin/public/usuarios.php on line 14
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: reference in /home/estampa/public_html/admin/public/usuarios.php on line 15
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined index: id_supply_order_detail in /home/estampa/public_html/admin/public/usuarios.php on line 16
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined variable: titulo in /home/estampa/public_html/admin/public/usuarios.php on line 57
+[23-Jun-2019 16:22:35 Etc/GMT] PHP Notice:  Undefined variable: subtitulo in /home/estampa/public_html/admin/public/usuarios.php on line 66
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: controller in /home/estampa/public_html/admin/public/vistas.php on line 10
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: view in /home/estampa/public_html/admin/public/vistas.php on line 11
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: id_lang in /home/estampa/public_html/admin/public/vistas.php on line 12
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: id_warehouse in /home/estampa/public_html/admin/public/vistas.php on line 13
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: reference in /home/estampa/public_html/admin/public/vistas.php on line 14
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: reference in /home/estampa/public_html/admin/public/vistas.php on line 15
+[23-Jun-2019 16:24:11 Etc/GMT] PHP Notice:  Undefined index: id_supply_order_detail in /home/estampa/public_html/admin/public/vistas.php on line 16
+[30-Jul-2019 17:43:06 Etc/GMT] PHP Warning:  require(conexion.php): failed to open stream: No such file or directory in /home/estampa/public_html/admin/config/Consulta.php on line 2
+[30-Jul-2019 17:43:06 Etc/GMT] PHP Warning:  require(conexion.php): failed to open stream: No such file or directory in /home/estampa/public_html/admin/config/Consulta.php on line 2
+[30-Jul-2019 17:43:06 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'conexion.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/estampa/public_html/admin/config/Consulta.php on line 2
+[30-Jul-2019 19:09:11 Etc/GMT] PHP Notice:  Array to string conversion in /home/estampa/public_html/admin/public/Consulta.php on line 10
+[30-Jul-2019 19:14:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/estampa/public_html/admin/public/Consulta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/estampa/public_html/admin/public/Consulta.php on line 7
+[30-Jul-2019 19:40:19 Etc/GMT] PHP Notice:  Undefined variable: rows in /home/estampa/public_html/admin/public/Consulta.php on line 15
+[30-Jul-2019 19:42:52 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 15
+[30-Jul-2019 19:42:59 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 15
+[30-Jul-2019 19:43:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'todas' (T_STRING) in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[30-Jul-2019 19:44:49 Etc/GMT] PHP Notice:  Undefined variable: rows in /home/estampa/public_html/admin/public/Consulta.php on line 15
+[30-Jul-2019 20:00:00 Etc/GMT] PHP Notice:  Array to string conversion in /home/estampa/public_html/admin/public/Consulta.php on line 15
+[30-Jul-2019 20:27:48 Etc/GMT] PHP Notice:  Undefined variable: resultado in /home/estampa/public_html/admin/public/Consulta.php on line 9
+[31-Jul-2019 00:27:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/estampa/public_html/admin/public/Consulta.php on line 9
+[31-Jul-2019 00:28:14 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:29:05 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:29:43 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:30:33 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:32:05 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:33:44 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:33:47 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:34:14 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:36:43 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:38:08 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:38:44 Etc/GMT] PHP Notice:  Undefined variable: row in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[31-Jul-2019 00:55:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 00:55:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 00:57:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 00:57:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 00:57:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 01:05:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 01:06:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 01:07:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 01:09:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 01:31:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 01:34:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 02:12:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/estampa/public_html/admin/public/Consulta.php on line 4
+[31-Jul-2019 05:21:03 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/estampa/public_html/admin/public/Consulta.php on line 3
+[31-Jul-2019 05:24:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/estampa/public_html/admin/public/Consulta.php on line 3
+[02-Aug-2019 18:05:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/estampa/public_html/admin/public/Consulta.php on line 2
+[02-Aug-2019 18:05:15 Etc/GMT] PHP Notice:  Undefined variable: id in /home/estampa/public_html/admin/public/Consulta.php on line 7
+[05-Aug-2019 01:31:53 Etc/GMT] PHP Notice:  Undefined index: id in /home/estampa/public_html/admin/public/Consulta.php on line 2
+[05-Aug-2019 01:31:53 Etc/GMT] PHP Notice:  Undefined variable: id in /home/estampa/public_html/admin/public/Consulta.php on line 7
+[05-Aug-2019 01:31:53 Etc/GMT] PHP Notice:  Undefined variable: id in /home/estampa/public_html/admin/public/Consulta.php on line 8
+[22-Mar-2020 19:37:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[07-Apr-2020 20:51:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[07-Apr-2020 20:52:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 17:54:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 17:54:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 17:54:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 17:55:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 17:58:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 17:59:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 18:30:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 20:28:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[18-Apr-2020 20:38:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[28-Apr-2020 19:44:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Apr-2020 19:44:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[29-Apr-2020 01:52:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 01:52:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 48
+[29-Apr-2020 01:53:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 01:53:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 01:53:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 01:53:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 01:53:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 01:53:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 04:26:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 04:26:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 04:31:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 04:31:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 04:33:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 04:33:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 65536 bytes) in Unknown on line 0
+[29-Apr-2020 05:05:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 05:05:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 05:12:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 05:12:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 376
+[29-Apr-2020 05:13:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 05:13:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 05:19:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 05:19:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 376
+[29-Apr-2020 05:24:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 05:24:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 05:26:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 05:26:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 14:13:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 14:13:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 14:26:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 14:26:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 16:19:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 16:19:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 22:41:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 22:41:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[29-Apr-2020 22:43:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 22:43:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 77
+[29-Apr-2020 22:59:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 22:59:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 77
+[29-Apr-2020 23:00:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 23:00:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 77
+[29-Apr-2020 23:07:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[29-Apr-2020 23:07:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[08-May-2020 20:01:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[08-May-2020 20:01:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 19:34:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 19:34:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 19:43:30 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 19:43:30 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 19:43:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 19:43:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 19:57:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 19:57:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 19:59:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 19:59:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 20:01:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:01:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 20:02:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:02:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 20:03:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:03:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 20:07:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:07:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[10-May-2020 20:10:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:10:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 376
+[10-May-2020 20:14:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:14:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 77
+[10-May-2020 20:16:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[10-May-2020 20:16:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[11-May-2020 02:19:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:19:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[11-May-2020 02:19:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:19:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 200
+[11-May-2020 02:21:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:21:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[11-May-2020 02:28:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:28:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 65536 bytes) in /home/estampa/public_html/admin/vendor/filp/whoops/src/Whoops/RunInterface.php on line 109
+[11-May-2020 02:31:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:31:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[11-May-2020 02:31:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:31:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 376
+[11-May-2020 02:46:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 02:46:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[11-May-2020 03:23:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 03:23:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[11-May-2020 19:11:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 69632 bytes) in /home/estampa/public_html/admin/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[11-May-2020 19:11:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/estampa/public_html/admin/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
